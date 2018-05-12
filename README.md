@@ -53,8 +53,16 @@ https://wikipedia.org/
 ## Warning
 I am no dietician nor do I guarantee that there are no errors in the program. This is something I made for myself, use at your own risk.
 
-## Adding Products
-To add a product, go to the category sheet, copy the last row that contains a valid entry and paste it on the row below.
+## Adding Products (Simple)
+To add a product, go to the category sheet, copy the last row that contains a valid entry and paste it on the row below. Edit its values.
 
-## Adding Recipes
+The entry will be automatically added to the dropdown lists.
+
+## Adding Recipes (Complex)
 To add a new recipe, first go to RecipeGen, then find the last recipe entry. Copy all from the white box in its top left corner to the last cell in its bottom right corner (which is water value). Paste the new values under it.
+
+After pasting, feel free to edit the name, add foods, etc.
+
+On completion, select the cells starting from the cell after "Copy from ->" and ending with the last cell (water nutrition). Go to Recipes tab and and use PASTE LINK on the last empty row.
+
+Now the recipe should appear in dropdown lists in the Recipe category.
