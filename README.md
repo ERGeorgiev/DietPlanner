@@ -4,6 +4,8 @@ An Excel sheet that can calculate micro/macro nutrients for a healthier lifestyl
 You need to enable macros to use it effectively.
 
 Some of the functions inside are coded using Visual Basic.
+
+![Showcase](Showcase.png)
 ## Copyright
 Note that I have retrieved nutritional information for different products from different websites, some of which ban commercial use. 
 
