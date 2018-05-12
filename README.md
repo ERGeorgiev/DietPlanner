@@ -23,7 +23,7 @@ The last row in each meal is a Note that you can fill. It will be saved to the p
 ![ShowcaseMini](images/ShowcaseMini.png)
 
 ## Planner
-On the Planner sheet
+On the Planner sheet you can see all days and activites written in a printable format. Feel free to just print it to a sheet of paper.
 
 ## Configuration
 First go to Settings, review and input your own body measurements.
